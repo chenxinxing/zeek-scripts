@@ -1,1 +1,1 @@
-$(echo 'YOUR_SCRIPT_CONTENT' | base64)
+$(echo 'YOUR_NEW_CONTENT' | base64)
