@@ -1,0 +1,1 @@
+$(base64 -w0 local/path/to/apk_download.zeek)
