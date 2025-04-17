@@ -1,0 +1,1 @@
+$(echo 'YOUR_SCRIPT_CONTENT' | base64)
